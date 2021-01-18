@@ -1,0 +1,7 @@
+{
+  "name": "phonebook",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
